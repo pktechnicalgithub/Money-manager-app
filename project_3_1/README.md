@@ -1,5 +1,5 @@
 # project_3_1
-
+![Money Manager App](https://raw.githubusercontent.com/pktechnicalgithub/Money-manager-app/refs/heads/main/project_3_1/Yellow%20and%20Pink%20Gradient%20Simple%20Abstract%20Mobile%20Apps%20Presentation%20(1).png)
 A new Flutter project.
 
 ## Getting Started
